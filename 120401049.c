@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define BOYUT 100
-
+//deneme
 //void ucgen2(char metin[],int i);
 void ucgen(char metin[],int i);
 int main()
